@@ -6,7 +6,7 @@ This is a simple encryption decryption app built using streamlit. It has a menu 
 
 ## How to run the app
 
-1. Clone the repository
+1. Clone the repository or Download the zip file
 2. Create a virtual environment and activate it (optional)
 3. Install the dependencies using `pip install -r requirements.txt`
 4. Run the app using `streamlit run main.py`
